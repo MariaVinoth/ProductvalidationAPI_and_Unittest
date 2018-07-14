@@ -1,0 +1,23 @@
+<order>
+	<dealer>
+		<dealerid></dealerid>
+		<dealeraccesskey></dealeraccesskey>
+	</dealer>
+	<orderitems>
+		<item>
+			<partnumber>1234</partnumber>
+			<quantity>2</quantity>
+		</item>	
+		<item>
+			<partnumber>5678</partnumber>
+			<quantity>25</quantity>
+		</item>
+	</orderitems>
+	<deliveryaddress>
+			<name>Mrs. Jane Smith</name>
+			<street>35 Streetname</street>
+			<city></city>
+			<province>NS</province>
+			<postalcode>B2T1A4</postalcode>
+	</deliveryaddress>
+</order>
